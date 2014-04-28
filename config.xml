@@ -4,18 +4,16 @@
 
 <name>Tooth Date Painel</name>
 
-<preference name="splash-screen-duration" value="2500" />
 <preference name="HideKeyboardFormAccessoryBar" value="true" />
 <preference name="webviewbounce" value="false" />
 <preference name="DisallowOverscroll" value="true" />
 <preference name="phonegap-version" value="3.3.0" />
 <preference name="target-device" value="tablet" />
-<preference name="fullscreen" value="true" />
+<preference name="fullscreen" value="false" />
 <preference name="prerendered-icon" value="true" />
 <preference name="detect-data-types" value="true" />
 <preference name="BackgroundColor" value="#F9F9F9" />
 <preference name="exit-on-suspend" value="false" />
-<preference name="auto-hide-splash-screen" value="true" />
 <preference name="disable-cursor" value="false" />
 <preference name="android-minSdkVersion" value="7" />
 <preference name="android-installLocation" value="auto" />
