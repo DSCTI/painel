@@ -19,10 +19,6 @@
 <preference name="android-installLocation" value="auto" />
 <preference name="orientation" value="landscape" />
 
-<preference name="splash-screen-duration" value="2000" />
-<gap:splash src="splash/android/l.png" gap:platform="android" gap:density="ldpi" />
-<gap:splash src="splash/android/m.png" gap:platform="android" gap:density="mdpi" />
-<gap:splash src="splash/android/h.png" gap:platform="android" gap:density="hdpi" />
 <gap:splash src="splash/ios/320.png" gap:platform="ios" width="320" height="480" />
 <gap:splash src="splash/ios/640.png" gap:platform="ios" width="640" height="960" />
 <gap:splash src="splash/ios/6402.png" gap:platform="ios" width="640" height="1136" />
